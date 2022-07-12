@@ -14,9 +14,9 @@ function HeroSection() {
         <p></p>
         <div className="hero-btns">
             <Button className='btns' link='/portfolio' buttonStyle='btn--outline'
-            buttonSize='btn--large'>GET STARTED</Button>
+            buttonSize='btn--large'>CHECK MY CURRICULUM VITAE OUT.</Button>
              <Button className='btns' buttonStyle='btn--primary'
-            buttonSize='btn--large'>WATCH TRAILER <i className="far fa-play-circle"></i>  </Button>
+            buttonSize='btn--large' link='/contact'>CONTACT JERR <i className="far fa-play-circle"></i>  </Button>
         </div>
     </div>
   )

@@ -13,14 +13,14 @@ function Cards() {
             <ul className="cards__items">
                 <CardItem 
                   src="images/img-2.jpg"
-                  text="Get Covered while you travel"
-                  label='Travel Cover'
+                  text="travel and shit"
+                  label='label'
                   path='/services'
                 />
                 <CardItem 
                   src="images/img-2.jpg"
-                  text="Get your property covered!"
-                  label='Property Insurance'
+                  text="nothing"
+                  label='label'
                   path='/services'
                 />
                 <CardItem 
