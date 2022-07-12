@@ -1,7 +1,7 @@
 import React from 'react'
 import CardItem from './CardItem/CardItem'
 import './cards.css'
-import '../Firebase/Firebase'
+//import '../Firebase/Firebase'
 
 function Cards() {
  
